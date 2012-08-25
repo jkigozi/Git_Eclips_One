@@ -16,6 +16,8 @@ on local desktop git shell
 	git add .
 	commit -a -m 'Suitable comments'
 in eclipse
+	close eclipse
+	on windows, under system, set environment variable HOME = C:\Users\jkigozi\git 
 	Switch to Git view
 	paste link from "view on github"
 	right click on master and select "pull"
