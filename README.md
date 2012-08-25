@@ -12,6 +12,10 @@ on local desktop git shell
 	git push -u origin master		to push to github repository
 in eclipse
 	create or import java classes and code as needed
+on local desktop git shell
+	git add .
+	commit -a -m 'Suitable comments'
+in eclipse
 	Switch to Git view
 	paste link from "view on github"
 
