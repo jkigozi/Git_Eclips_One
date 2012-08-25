@@ -10,3 +10,8 @@ on local desktop git shell
 	git init
 	git add .
 	git push -u origin master		to push to github repository
+in eclipse
+	create or import java classes and code as needed
+	Switch to Git view
+	paste link from "view on github"
+
