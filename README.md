@@ -18,4 +18,5 @@ on local desktop git shell
 in eclipse
 	Switch to Git view
 	paste link from "view on github"
+	right click on master and select "pull"
 
