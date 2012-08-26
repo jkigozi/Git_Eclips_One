@@ -11,7 +11,13 @@ public class buc {
 		System.out.println("Enter your name");
 		String nam = br.readLine();
 		
+		System.out.println("Enter your year of birth");
+		String yob = br.readLine();
+		
+		int yob_int = Integer.parseInt(yob);
+		
 		System.out.println("Welcome "+nam);
+		System.out.println("Yo were born in "+yob);
 		 
 
 	}

@@ -18,6 +18,7 @@ on local desktop git shell
 in eclipse
 	close eclipse
 	on windows, under system, set environment variable HOME = C:\Users\jkigozi\git 
+	restart eclipse
 	Switch to Git view
 	paste link from "view on github"
 	right click on master and select "pull"
